@@ -156,6 +156,7 @@ header {
   width: 1px;
   height: 84px;
   margin-top: 64px;
+  opacity: 0.25;
   background-color: #87879D;
 }
 
@@ -258,6 +259,7 @@ footer {
 .line2 {
   width: 1px;
   height: 84px;
+  opacity: 0.25;
   background-color: #87879D;
 }
 
@@ -271,6 +273,7 @@ footer {
   border-radius: 29px;
   border-style: solid;
   border-width: 1px;
+  border-bottom-left-radius: 0.25;
   border-color: #87879D;
   background-color: #FAFAFA;
 }
@@ -326,6 +329,7 @@ footer {
   width: 327px;
   height: 72px;
   top: 92px;
+  z-index: 1;
   color: #FAFAFA;
 }
 
@@ -338,6 +342,7 @@ footer {
   width: 327px;
   height: 78px;
   margin-top: 24px;
+  z-index: 1;
   color: #FAFAFA;
 }
 
